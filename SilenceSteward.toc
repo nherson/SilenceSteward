@@ -1,0 +1,7 @@
+## Interface: 90002
+## Title: SilenceSteward
+## Notes: Disables a Kyrian's summon steward's NPC window when in combat, preventing accidental clicks
+## Author: algorhythm
+## Version: 0.1
+
+SilenceSteward.lua
